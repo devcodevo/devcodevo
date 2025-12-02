@@ -79,9 +79,11 @@ My goal is to bridge robust software engineering with generative AI capabilities
 ###
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=devcodevo&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=devcodevo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devcodevo&theme=dracula&hide_border=false" alt="GitHub Streak" />
+  <br />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=devcodevo&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+   <br />
+  <img src="https://github-profile-trophy.vercel.app/?username=devcodevo&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
 </div>
 
 ###
