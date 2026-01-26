@@ -1,90 +1,71 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" alt="Codevo Logic" />
 </div>
 
-###
+<div align="center">
+  <h1 style="font-size: 30px; font-weight: bold;">CODEVO SOLUTIONS</h1>
+  <p><b>Efficiency meets Innovation.</b></p>
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/purwa-wiadnyana/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" alt="linkedin" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <a href="https://www.instagram.com/codevo.dev/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" alt="instagram" />
+  </a>
+  <a href="mailto:contact@codevo.tech"> <img src="https://img.shields.io/badge/Email-Contact_Us-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="email" />
   </a>
 </div>
 
-###
+<br />
+
+### 🏢 About Codevo
+
+> **Codevo** is a high-performance **Software Laboratory** based in Bali, Indonesia.
+
+We are a **Founder-Led** engineering hub. This means you don't talk to account managers; you collaborate directly with the Architects. I specialize in building **Enterprise-Grade SaaS** and **Digital Products** that refuse to compromise on speed or security.
+
+By leveraging the robustness of **Java (Quarkus)** paired with the cutting-edge reactivity of **SvelteKit**, Codevo delivers applications that are structurally sound and lightning-fast.
+
+---
+
+### 🚀 Our Core Stack & Expertise
+
+| **Back-End Engineering** | **Front-End & UI/UX** | **AI & Automation** |
+| :--- | :--- | :--- |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" width="20"/> **Quarkus (Java)**<br/>For cloud-native, sub-atomic reactive systems. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="20"/> **SvelteKit**<br/>For standard-setting performance and reactivity. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> **Python**<br/>Building intelligent agents & automation pipelines. |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20"/> **PostgreSQL**<br/>Reliable, scalable data storage. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20"/> **TypeScript**<br/>Strict type-safety for bug-free code. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="20"/> **Docker**<br/>Containerized deployment everywhere. |
+
+---
+
+### ⚡ Current Engineering Focus
+
+Codevo is currently deploying solutions for:
+
+* **B2B SaaS Platforms:** Custom high-performance dashboards for Event Organizers & Vendors.
+* **Web Automation:** Python-based scripts to automate repetitive business workflows.
+* **AI Integration:** Bridging Large Language Models (LLMs) with practical business logic.
+
+---
+
+### 📊 Engineering Activity
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=devcodevo.devcodevo&"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wdnyana&radius=16&theme=react&area=true&order=5" width="100%" alt="activity-graph" />
 </div>
 
-###
-
-<h1 align="center">Hi 👋, Welcome to Codevo!</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Us</h3>
-
-###
-
-> Codevo is a specialized software lab founded on a single premise: **Efficiency meets Innovation.**
-
-As a **solopreneur-led initiative**, I specialize in architecting full-stack solutions that refuse to compromise on performance. By leveraging the robustness of **Java (Quarkus)** paired with the cutting-edge reactivity of **SvelteKit (TypeScript)**, I deliver applications that are lightning-fast and structurally sound.
-
-### 🚀 Current Mission
-Building next-gen web applications that leverage:
-
-* ☕ **Quarkus (Java):** For low-memory footprint and reactive backend services.
-* 🔶 **SvelteKit (TypeScript):** For seamless, type-safe, and highly interactive user interfaces.
-* 🐍 **Python:** The backbone of our AI capabilities, powering machine learning and intelligent automation.
-  
-### 🧠 The Next Frontier
-Beyond traditional web development, Codevo is actively researching and evolving into an **AI-first development hub**.
-
-My goal is to bridge robust software engineering with generative AI capabilities, building systems that learn, adapt, and solve complex problems autonomously.
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
+<br/>
 
 <div align="center">
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="40" alt="svelte logo"  />
-  <img width="12" />
- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" height="40" alt="quarkus logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/notion/notion-original.svg" height="40" alt="notion logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Wdnyana&theme=dracula&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </div>
 
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
+<br />
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=devcodevo&theme=dracula&hide_border=false" alt="GitHub Streak" />
-  <br />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=devcodevo&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
-   <br />
-  <img src="https://github-profile-trophy.vercel.app/?username=devcodevo&theme=dracula&no-frame=true&no-bg=true&margin-w=4" alt="Trophies" />
+  <p align="center">
+    <i>"Building systems that learn, adapt, and solve complex problems autonomously."</i>
+  </p>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=devcodevo.devcodevo" alt="visitor badge"/>
 </div>
-
-###
