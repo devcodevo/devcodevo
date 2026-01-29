@@ -14,7 +14,8 @@
   <a href="https://www.instagram.com/codevo.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" alt="instagram" />
   </a>
-  <a href="mailto:contact@codevo.tech"> <img src="https://img.shields.io/badge/Email-Contact_Us-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="email" />
+  <a href="mailto:contact@codevo.tech">
+    <img src="https://img.shields.io/badge/Email-Contact_Us-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="28" alt="email" />
   </a>
 </div>
 
@@ -24,32 +25,37 @@
 
 > **Codevo** is a high-performance **Software Laboratory** based in Bali, Indonesia.
 
-We are a **Founder-Led** engineering hub. This means you don't talk to account managers; you collaborate directly with the Architects. I specialize in building **Enterprise-Grade SaaS** and **Digital Products** that refuse to compromise on speed or security.
+We are a **Founder-Led** engineering hub focusing on **Digital Transformation** & **Product Innovation**. Unlike traditional agencies that just "build websites," we architect **Systems** that solve complex business problems.
 
-By leveraging the robustness of **Java (Quarkus)** paired with the cutting-edge reactivity of **SvelteKit**, Codevo delivers applications that are structurally sound and lightning-fast.
+Whether it's a custom **SaaS Platform**, an **AI-driven Automation**, or our own **In-House Products**, our philosophy remains the same: **Speed, Security, and Scalability.**
 
 ---
 
-### 🚀 Our Core Stack & Expertise
+### 🛠️ The Engineering Toolbelt
 
-| **Back-End Engineering** | **Front-End & UI/UX** | **AI & Automation** |
+We don't just stick to one tool; we use the right technology for the mission. Currently, our high-performance standard involves:
+
+| **Core Infrastructure** | **Interface & Experience** | **Intelligence (AI)** |
 | :--- | :--- | :--- |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" width="20"/> **Quarkus (Java)**<br/>For cloud-native, sub-atomic reactive systems. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="20"/> **SvelteKit**<br/>For standard-setting performance and reactivity. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> **Python**<br/>Building intelligent agents & automation pipelines. |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20"/> **PostgreSQL**<br/>Reliable, scalable data storage. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20"/> **TypeScript**<br/>Strict type-safety for bug-free code. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" width="20"/> **Docker**<br/>Containerized deployment everywhere. |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/quarkus/quarkus-original.svg" width="20"/> **High-Performance Backend**<br/>Using Cloud-Native Java (Quarkus) for extreme speed. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" width="20"/> **Reactive Frontend**<br/>SvelteKit & TypeScript for snappy, app-like experiences. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="20"/> **AI & Automation**<br/>Python Agents for Workflow Automation & LLM Integration. |
+| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="20"/> **Reliable Storage**<br/>PostgreSQL & Docker for data integrity. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="20"/> **Type Safety**<br/>Strict Standards to prevent bugs in production. | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="20"/> **DevOps**<br/>Automated CI/CD pipelines. |
 
 ---
 
-### ⚡ Current Engineering Focus
+### ⚡ Service & Innovation Pillars
 
-Codevo is currently deploying solutions for:
+Codevo operates on three main verticals:
 
-* **B2B SaaS Platforms:** Custom high-performance dashboards for Event Organizers & Vendors.
-* **Web Automation:** Python-based scripts to automate repetitive business workflows.
-* **AI Integration:** Bridging Large Language Models (LLMs) with practical business logic.
+1.  **Custom SaaS Development:**
+    Building "Company OS" and Dashboards (e.g., for Event Organizers & Vendors) that streamline operations.
+2.  **AI Product Integration:**
+    Bridging Large Language Models (LLMs) with practical business logic to create "Smart Assistants" for businesses.
+3.  **Codevo Labs (Proprietary Products):**
+    Incubating and launching our own tech solutions to solve market gaps.
 
 ---
 
-### 📊 Engineering Activity
+### 📊 Founder Activity
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Wdnyana&radius=16&theme=react&area=true&order=5" width="100%" alt="activity-graph" />
